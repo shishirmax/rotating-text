@@ -42,6 +42,6 @@ body{
     80%{top: -200px;}
 }
 
-.Iam:hover .innerIam{
+ .innerIam:hover{
     animation-play-state: paused;
 }
