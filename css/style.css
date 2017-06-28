@@ -1,5 +1,5 @@
 body{
-    background: #2d2d2d;
+    background: #3B445B;
 }
 
 .Iam{
@@ -22,7 +22,7 @@ body{
 
 .Iam .innerIam{
     display: inline-block;
-    color: #e74c3c;
+    color: #7EB19F;
     position: relative;
     white-space: nowrap;
     top: 0;
